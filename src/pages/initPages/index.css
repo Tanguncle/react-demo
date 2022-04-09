@@ -1,0 +1,9 @@
+.firstPages {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 2px dotted green;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
